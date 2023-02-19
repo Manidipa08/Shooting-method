@@ -45,6 +45,6 @@ xlabel color magenta fontsize 4
 ylabel("Y(X)---->")
 ylabel color magenta fontsize 4
 legend(["Using Shooting Method";"Exact Solution"])
-xgrid
+xgrid()
 
 
